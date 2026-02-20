@@ -1,0 +1,13 @@
+# HMCLS integration examples — Python dependencies
+# Use: pip install -r requirements.txt
+
+# Streamlit app, UDP viewer, serial terminal
+streamlit>=1.28.0
+flask>=3.0.0
+numpy>=1.24.0
+pyserial>=3.5
+
+# Notebooks (receive_udp.ipynb, send_udp.ipynb)
+matplotlib>=3.7.0
+pandas>=2.0.0
+scipy>=1.11.0
